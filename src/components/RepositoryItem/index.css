@@ -1,0 +1,53 @@
+.repository-lists {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  background-color: #f8f8ff;
+  margin-left: 10px;
+  margin-bottom: 15px;
+  flex-grow: 1;
+}
+
+.language-img {
+  width: 70%;
+  padding: 25px;
+  margin-bottom: 0px;
+}
+
+.language-desc-card {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.language-count-card {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+  margin-bottom: 0px;
+}
+
+.language-name {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Roboto;
+  color: #e73959;
+}
+
+.language-logo {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.language-text {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #1e293b;
+}
